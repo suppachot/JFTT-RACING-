@@ -1,0 +1,8 @@
+
+สำหรับผู้ดูแลระบบ
+Username : admin1
+Password : admin1_pass
+
+สำหรับสมาชิก
+Username : member1
+Password : member1_pass
